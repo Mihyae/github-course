@@ -1,7 +1,5 @@
-# Git Course
+# Git Learning
 
-Este é um repositorio teste, como o Git funciona
+Este é um repositorio teste.
 
-Teste
-\0/
-Editando...
+:D
